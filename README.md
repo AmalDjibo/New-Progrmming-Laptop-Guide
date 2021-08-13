@@ -46,13 +46,13 @@ Programming:
 
 ## 7. Other Utilites
 Main:
-* [Flux](https://justgetflux.com/)
+* [F.lux](https://justgetflux.com/)
 * Chrome Remote Desktop
 * HWInfo
 * QuickLook (Microsoft Store)
 
 Programming:
-* [Flux](https://justgetflux.com/)
+* [F.lux](https://justgetflux.com/)
 * HWInfo
 * QuickLook (Microsoft Store)
 
