@@ -50,6 +50,7 @@ Main:
 * Chrome Remote Desktop
 * HWInfo
 * QuickLook (Microsoft Store)
+* [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
 
 Programming:
 * [F.lux](https://justgetflux.com/)
