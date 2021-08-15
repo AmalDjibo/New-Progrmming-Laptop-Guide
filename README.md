@@ -51,6 +51,11 @@ Main:
 * HWInfo
 * QuickLook (Microsoft Store)
 * [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
+* Chrome Extensions
+    * The Great Suspender
+    * Typio Form Recovery
+    * Web of Trust
+    * HTTPS Everywhere
 
 Programming:
 * [F.lux](https://justgetflux.com/)
@@ -69,6 +74,9 @@ Programming:
   *  Turn off Notifications
   *  Turn off Focus Assist
   *  Turn Tablet Mode
+* Updates
+    * Enable Device Encrytion 
+
 * Privacy
   * Turn off let apps use advertising ID
   * Turn off show suggested content in the Settings app
@@ -106,3 +114,5 @@ Programming:
 ## 12. Chose Wallpapers
 
 ## 13. Locate and store Computer's Serial Numaer
+
+## 14. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
