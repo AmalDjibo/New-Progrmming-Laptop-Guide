@@ -56,11 +56,18 @@ Main:
     * Typio Form Recovery
     * Web of Trust
     * HTTPS Everywhere
+    * Honey
 
 Programming:
 * [F.lux](https://justgetflux.com/)
 * HWInfo
 * QuickLook (Microsoft Store)
+* Chrome Extensions
+    * Wappalyzer
+    * ColorZilla
+    * WhatFont
+    * EditThisCookie
+    * JSON Viewer
 
 ## 8. Disabling Unnessacary startup programming
 * Open Task Manager and disable unnesscary startup programs
@@ -73,7 +80,9 @@ Programming:
 * System
   *  Turn off Notifications
   *  Turn off Focus Assist
-  *  Turn Tablet Mode
+  *  Turn Tablet Mode Off
+  *  Clipboard
+        * Turn on clipboard history     
 * Updates
     * Enable Device Encrytion 
 
