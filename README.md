@@ -125,3 +125,7 @@ Programming:
 ## 13. Locate and store Computer's Serial Numaer
 
 ## 14. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
+
+## 15. macOS Setup
+
+Setup up [macOS via Virtual Box](https://www.youtube.com/watch?v=Dfl_RsRvrlM) and contact Djami
