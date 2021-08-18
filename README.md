@@ -122,10 +122,14 @@ Programming:
 
 ## 12. Chose Wallpapers
 
-## 13. Locate and store Computer's Serial Numaer
+## 13. Locate and store Computer's Serial Number
 
 ## 14. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
 
 ## 15. macOS Setup
 
 Setup up [macOS via Virtual Box](https://www.youtube.com/watch?v=Dfl_RsRvrlM) and contact Djami
+
+## 16. Run Cruical Scan
+
+Go on Cruical's website and download the [Cruical Scan](https://www.crucial.com/store/systemscanner) to find out potenial system upgrade options for in the future.
