@@ -71,6 +71,7 @@ Programming:
 
 ## 8. Disabling Unnessacary startup programming
 * Open Task Manager and disable unnesscary startup programs
+* Also, under the Options tab in the Task Manager turn on the "Always on top" setting
 
 ## 9. Windows Optimization Guide
    1. Create [System Restore Point](https://youtu.be/sH2FCmBg7VA?t=59)
