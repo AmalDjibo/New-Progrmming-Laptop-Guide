@@ -12,11 +12,14 @@
 ## 4. Google Chrome
 Using Edge on both accouts, download chrome sign in to each respective account and set Chrome to the default browser.
 
-## 5. Remove Bloatware
+## 5. [Register Laptop w/ Lenovo](https://support.lenovo.com/us/en/productregistration#/)
+
+
+## 6. Remove Bloatware
 * Hit Start and type "appwiz.cpl", now the delete the programs you know and that you don't need
 * Install CCleaner and do the same thing (allows you remove more programs than appwiz.cpl)
 
-## 6. Ninite
+## 7. Ninite
 Create a [Ninite](https://ninite.com/) Installer for Both Accounts
 Main:
 * Firefox
@@ -44,7 +47,7 @@ Programming:
 * FileZilla
 * VS Code
 
-## 7. Other Utilites
+## 8. Other Utilites
 Main:
 * [F.lux](https://justgetflux.com/)
 * Chrome Remote Desktop
@@ -69,11 +72,11 @@ Programming:
     * EditThisCookie
     * JSON Viewer
 
-## 8. Disabling Unnessacary startup programming
+## 9. Disabling Unnessacary startup programming
 * Open Task Manager and disable unnesscary startup programs
 * Also, under the Options tab in the Task Manager turn on the "Always on top" setting
 
-## 9. Windows Optimization Guide
+## 10. Windows Optimization Guide
    1. Create [System Restore Point](https://youtu.be/sH2FCmBg7VA?t=59)
    2. Change [Visual Effects](https://youtu.be/sH2FCmBg7VA?t=96)
    3. Change [Power Plan](https://youtu.be/sH2FCmBg7VA?t=153)
@@ -102,7 +105,7 @@ Programming:
 * [Storage](https://youtu.be/sH2FCmBg7VA?t=348)
 * System [Boot](https://youtu.be/sH2FCmBg7VA?t=476) 
 
-## 10. Internet Optimization Guide (Only on Main)
+## 11. Internet Optimization Guide (Only on Main)
 
 1. Run Inital [Speed Test](https://www.speedtest.net/)
 * Run this test to see how fast your wifi is before we apply any optimizations
@@ -118,19 +121,19 @@ Programming:
 6. [Disable Automatic Updates](https://youtu.be/MUZ1jpnr71w?t=523)
 7. [DNS](https://youtu.be/MUZ1jpnr71w?t=568)
 
-## 11. Programming Account Specifics
+## 12. Programming Account Specifics
 1. Install & Setup Git
 
-## 12. Chose Wallpapers
+## 13. Chose Wallpapers
 
-## 13. Locate and store Computer's Serial Number
+## 14. Locate and store Computer's Serial Number
 
-## 14. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
+## 15. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
 
-## 15. macOS Setup
+## 16. macOS Setup
 
 Setup up [macOS via Virtual Box](https://www.youtube.com/watch?v=Dfl_RsRvrlM) and contact Djami
 
-## 16. Run Cruical Scan
+## 17. Run Cruical Scan
 
 Go on Cruical's website and download the [Cruical Scan](https://www.crucial.com/store/systemscanner) to find out potenial system upgrade options for in the future.
