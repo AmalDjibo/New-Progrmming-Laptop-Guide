@@ -3,10 +3,10 @@
 ## 7. YouTube
 Subscribe to:
 
-*[VB ATC](https://www.youtube.com/channel/UClQhLFXUbghJ2TX--mi-yvw)
-*[Babish Culinary Universe](https://www.youtube.com/c/bingingwithbabish)
-*[Motivation2Study](https://www.youtube.com/c/Motivation2Study)
-*[Adam Ragusea](https://www.youtube.com/user/aragusea)
+   * [VB ATC](https://www.youtube.com/channel/UClQhLFXUbghJ2TX--mi-yvw)
+   * [Babish Culinary Universe](https://www.youtube.com/c/bingingwithbabish)
+   * [Motivation2Study](https://www.youtube.com/c/Motivation2Study)
+   * [Adam Ragusea](https://www.youtube.com/user/aragusea)
 
 ## 8. Other Utilites
 Main:
