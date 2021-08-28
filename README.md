@@ -63,7 +63,7 @@ Programming:
 
 ## 16. macOS Setup
 
-Setup up [macOS via Virtual Box](https://youtu.be/3LYgwi4Bm1w) and contact Djami
+Setup up [macOS via Virtual Box](https://www.youtube.com/watch?v=fl0U9t8Y1ks) and contact Djami
 
 ## 17. Run Cruical Scan
 
