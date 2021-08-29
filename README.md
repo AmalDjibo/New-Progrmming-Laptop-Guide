@@ -1,5 +1,7 @@
 # How to Setup A New Programming Laptop 
 
+## 6. Freedom (on Chromebook)
+ 
 ## 7. YouTube
 Subscribe to:
 
