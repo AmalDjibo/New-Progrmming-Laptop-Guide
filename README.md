@@ -1,5 +1,6 @@
 # How to Setup A New Programming Laptop 
 
+## 5. [Liberate the System](https://youtu.be/e3qRQOCWp-Q?t=506)
 ## 6. Remove Bloatware
 * Hit Start and type "appwiz.cpl", now the delete the programs you know and that you don't need
 * Install CCleaner and do the same thing (allows you remove more programs than appwiz.cpl)
@@ -53,6 +54,8 @@ Programming:
 *  Apps
     * Startup  
         * Disable unnesscary startup programs   
+    * [Disable Cortana](https://youtu.be/wF1oXPNlyb8?t=97)
+    * [Disable web search in the Start Menu](https://youtu.be/wF1oXPNlyb8?t=117)
 * [Storage](https://youtu.be/sH2FCmBg7VA?t=348)
 * System [Boot](https://youtu.be/sH2FCmBg7VA?t=476) 
 ## 11. Internet Optimization Guide (Only on Main)
@@ -70,12 +73,17 @@ Programming:
 ## 12. Programming Account Specifics
 1. Install & Setup Git
 ## 13. Chose Wallpapers
+###. 13b Customize the Start Menu
 ## 14. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
 
-## 15. macOS Setup
+## 15. Change Password
+
+## 16. macOS Setup
 
 Setup up macOS via Virtual Box and contact Djami
 
-## 16. Run Cruical Scan
+## 17. Run Cruical Scan
 
 Go on Cruical's website and download the [Cruical Scan](https://www.crucial.com/store/systemscanner) to find out potenial system upgrade options for in the future.
+
+## 18. Try Alexa
