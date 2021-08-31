@@ -17,6 +17,8 @@ Main:
     * Web of Trust
     * HTTPS Everywhere
     * Honey
+    * Tide
+    * uBlock Origin 
 Programming:
 * HWInfo
 * QuickLook (Microsoft Store)
@@ -26,6 +28,8 @@ Programming:
     * WhatFont
     * EditThisCookie
     * JSON Viewer
+    * Tide
+    * uBlock Origin
 ## 9. Disabling Unnessacary startup programming
 * Open Task Manager and disable unnesscary startup programs
 * Also, under the Options tab in the Task Manager turn on the "Always on top" setting
@@ -70,20 +74,19 @@ Programming:
 5. [Bandwidth](https://youtu.be/MUZ1jpnr71w?t=480)
 6. [Disable Automatic Updates](https://youtu.be/MUZ1jpnr71w?t=523)
 7. [DNS](https://youtu.be/MUZ1jpnr71w?t=568)
-## 12. Programming Account Specifics
-1. Install & Setup Git
+
 ## 13. Chose Wallpapers
 ###. 13b Customize the Start Menu
 ## 14. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
 
-## 15. Change Password
 
-## 16. macOS Setup
-
-Setup up macOS via Virtual Box and contact Djami
-
-## 17. Run Cruical Scan
+## 15. Run Cruical Scan
 
 Go on Cruical's website and download the [Cruical Scan](https://www.crucial.com/store/systemscanner) to find out potenial system upgrade options for in the future.
 
-## 18. Try Alexa
+## 16. PLay With Lenovo Vantage
+## 17. Change Passwords
+
+## 18. macOS Setup
+
+Setup up macOS via Virtual Box and contact Djami
