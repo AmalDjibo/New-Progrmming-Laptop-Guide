@@ -5,6 +5,8 @@
 * Hit Start and type "appwiz.cpl", now the delete the programs you know and that you don't need
 * Install CCleaner and do the same thing (allows you remove more programs than appwiz.cpl)
 
+## 7. [Enable Secure DNS](https://www.youtube.com/watch?v=Vm4JRJVLBtQ&t=180)
+
 ## 8. Other Utilites
 Main:
 * Chrome Remote Desktop
@@ -75,18 +77,18 @@ Programming:
 6. [Disable Automatic Updates](https://youtu.be/MUZ1jpnr71w?t=523)
 7. [DNS](https://youtu.be/MUZ1jpnr71w?t=568)
 
-## 13. Chose Wallpapers
-###. 13b Customize the Start Menu
-## 14. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
+## 12. Chose Wallpapers
+###. 12b Customize the Start Menu
+## 13. Schedule [Monthly Check](https://github.com/AmalDjibo/Monthly-Computer-Maintence-Guide)
 
 
-## 15. Run Cruical Scan
+## 14. Run Cruical Scan
 
 Go on Cruical's website and download the [Cruical Scan](https://www.crucial.com/store/systemscanner) to find out potenial system upgrade options for in the future.
 
-## 16. PLay With Lenovo Vantage
-## 17. Change Passwords
+## 15. PLay With Lenovo Vantage
+## 16. Change Passwords
 
-## 18. macOS Setup
+## 17. macOS Setup
 
 Setup up macOS via Virtual Box and contact Djami
