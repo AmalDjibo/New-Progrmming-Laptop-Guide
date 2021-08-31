@@ -1,6 +1,6 @@
 # How to Setup A New Programming Laptop 
 
-## 5. [Liberate the System](https://www.youtube.com/watch?v=e3qRQOCWp-Q&t=506s)
+## 5. [Liberate the System](https://www.youtube.com/watch?v=e3qRQOCWp-Q&t=547)
 ## 6. Remove Bloatware
 * Hit Start and type "appwiz.cpl", now the delete the programs you know and that you don't need
 * Install CCleaner and do the same thing (allows you remove more programs than appwiz.cpl)
