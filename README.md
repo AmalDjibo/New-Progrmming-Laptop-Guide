@@ -33,6 +33,7 @@ Main:
 * Steam
 * WinDirStat
 * WinRAR
+* Dropbox
 
 Programming:
 * Firefox
